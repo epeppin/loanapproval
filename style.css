@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+h1, small, form {
+    margin: 20px;
+}
+
+label.error {
+    color: darkred;
+    font-style: italic;
+}
+
+#subTitle {
+    color: slategrey;
+}
+
